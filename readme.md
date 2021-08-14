@@ -10,7 +10,7 @@ This script assumes that `npm run dev` is how you start your dev server, and tha
 
 ### Roadmap
 
-[X] dumbest possible script
-[] parameterize the port
-[] parameterize the command to run to start the dev server
-[] figure out how npx works and support that directly
+ - [X] dumbest possible script 
+ - [ ] parameterize the port 
+ - [ ] parameterize the command to run to start the dev server 
+ - [ ] figure out how npx works and support that directly 
