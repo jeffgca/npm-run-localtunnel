@@ -1,0 +1,17 @@
+{
+  "name": "localrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-opn": "^3.0.0",
+    "color": "^4.0.1",
+    "lodash": "^4.17.21",
+    "ora": "^5.4.1"
+  }
+}
