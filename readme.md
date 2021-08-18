@@ -14,3 +14,5 @@ This script assumes that `npm run dev` is how you start your dev server, and tha
  - [ ] parameterize the port 
  - [ ] parameterize the command to run to start the dev server 
  - [ ] figure out how npx works and support that directly 
+ - [ ] use the localtunnel and sirv modules directly so that this could be run as a script
+ - [ ] figure out how to support livereload or similar
